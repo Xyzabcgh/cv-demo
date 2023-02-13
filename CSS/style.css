@@ -1,0 +1,30 @@
+body{
+    background-color: lavenderblush;
+}
+hr{
+    width: 3%;
+    border-style: dotted none none;
+    background-color: lavenderblush;
+    border-width: 5px;
+    color:chocolate;
+    
+}
+
+
+.t1{
+    border-spacing: 10px;
+}
+.t2
+{
+    border-spacing: 5px;
+}
+.t3
+{
+    border-spacing: 5px;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: coral;
+}
